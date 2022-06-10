@@ -1,0 +1,14 @@
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\bin\Debug\netcoreapp3.1\Lab2_task2.exe
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\bin\Debug\netcoreapp3.1\Lab2_task2.deps.json
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\bin\Debug\netcoreapp3.1\Lab2_task2.runtimeconfig.json
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\bin\Debug\netcoreapp3.1\Lab2_task2.runtimeconfig.dev.json
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\bin\Debug\netcoreapp3.1\Lab2_task2.dll
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\bin\Debug\netcoreapp3.1\Lab2_task2.pdb
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\obj\Debug\netcoreapp3.1\Lab2_task2.csproj.AssemblyReference.cache
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\obj\Debug\netcoreapp3.1\Lab2_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\obj\Debug\netcoreapp3.1\Lab2_task2.AssemblyInfoInputs.cache
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\obj\Debug\netcoreapp3.1\Lab2_task2.AssemblyInfo.cs
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\obj\Debug\netcoreapp3.1\Lab2_task2.csproj.CoreCompileInputs.cache
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\obj\Debug\netcoreapp3.1\Lab2_task2.dll
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\obj\Debug\netcoreapp3.1\Lab2_task2.pdb
+C:\Users\ekate\source\repos\Lab2\Lab2_task2\obj\Debug\netcoreapp3.1\Lab2_task2.genruntimeconfig.cache
